@@ -3,4 +3,5 @@ void main() {
   print('New line');
   print('Emergency Fix');
   print('Fix Critical Error');
+  print('Resized Image');
 }
